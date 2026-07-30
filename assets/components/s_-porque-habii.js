@@ -19,7 +19,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
     <div style="border-right:1px solid rgba(255,255,255,.07);padding:48px 44px 48px 52px;display:flex;flex-direction:column;justify-content:center;position:relative;z-index:5;">
       <div style="font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#1DB954;margin-bottom:16px;">Nosso diferencial</div>
       <h2 style="font-size:clamp(38px,4vw,56px);font-weight:900;line-height:1.0;letter-spacing:-.035em;color:#fff;margin:0 0 22px;">Por que a<br><em style="color:rgba(29,185,84,.45);font-style:normal;">Habii Tech?</em></h2>
-      <p style="font-size:16px;color:rgba(255,255,255,.55);line-height:1.72;margin:0 0 36px;max-width:320px;">Escolher a empresa certa é tão importante quanto a ideia em si. Veja o que nos torna a parceira ideal para construir o futuro digital do Fazendinhas.</p>
+      <p style="font-size:16px;color:rgba(255,255,255,.55);line-height:1.72;margin:0 0 36px;max-width:320px;">Escolher a empresa certa é tão importante quanto a ideia em si. Veja o que nos torna a parceira ideal para construir o futuro digital do buyAdisco.</p>
 
       <!-- highlight stat -->
       <div style="background:rgba(29,185,84,.08);border:1px solid rgba(29,185,84,.2);border-radius:16px;padding:20px 24px;display:flex;align-items:center;gap:16px;">

@@ -20,12 +20,12 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
         <div>
           <div style="font-size:10.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#35E07A;margin-bottom:20px;">Prazo estimado</div>
           <div style="display:flex;align-items:baseline;gap:18px;line-height:1;">
-            <span style="font-size:100px;font-weight:900;color:#fff;letter-spacing:-.04em;line-height:1;">4</span>
+            <span style="font-size:100px;font-weight:900;color:#fff;letter-spacing:-.04em;line-height:1;">5</span>
             <span style="font-size:36px;font-weight:800;color:#35E07A;letter-spacing:-.02em;line-height:1;">meses</span>
           </div>
         </div>
         <div style="margin-top:24px;padding-top:24px;border-top:1px solid rgba(53,224,122,.15);">
-          <div style="font-size:15px;color:rgba(255,255,255,.55);line-height:1.5;">App mobile + Painel web completo</div>
+          <div style="font-size:15px;color:rgba(255,255,255,.55);line-height:1.5;">App mobile iOS e Android + Painel web administrativo</div>
         </div>
       </div>
       <div class="flex flex-col gap-[14px] flex-1">
