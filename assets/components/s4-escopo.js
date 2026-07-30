@@ -23,7 +23,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           </div>
           <div class="flex-1">
             <div class="text-[16px] font-extrabold text-white leading-[1.2] tracking-[-0.015em]">App Mobile · iOS e Android</div>
-            <div class="text-[11px] font-semibold text-white/55 mt-[5px] tracking-[.06em] uppercase">14 funcionalidades</div>
+            <div class="text-[11px] font-semibold text-white/55 mt-[5px] tracking-[.06em] uppercase">8 funcionalidades</div>
           </div>
         </div>
         <div class="px-7 py-[22px] flex-1 bg-white">
@@ -33,10 +33,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Gateway de pagamento externo (Stripe/Yugo)</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Cadastro de produtos via IA (código de barras e fotos)</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Importação de catálogo via API Discogs e CSV</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Planos de assinatura mensal para lojistas</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Selo de verificação para lojistas credenciados</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Leilões e sistema de ofertas/lances</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Fluxo de pagamento assíncrono com retenção</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium leading-[1.35]">Notificações por e-mail</div>
         </div>
       </div>
@@ -49,17 +46,15 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           </div>
           <div class="flex-1">
             <div class="text-[16px] font-extrabold text-white leading-[1.2] tracking-[-0.015em]">Painel Web · Administrativo</div>
-            <div class="text-[11px] font-semibold text-white/55 mt-[5px] tracking-[.06em] uppercase">10 funcionalidades</div>
+            <div class="text-[11px] font-semibold text-white/55 mt-[5px] tracking-[.06em] uppercase">8 funcionalidades</div>
           </div>
         </div>
         <div class="px-7 py-[22px] flex-1 bg-white">
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Gestão de usuários e lojistas</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Aprovação e controle de selos de verificação</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Monitoramento de transações e repasses</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Gestão de planos e assinaturas</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Moderação de anúncios e denúncias</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Dashboard de métricas e receita</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Gestão de leilões ativos</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Relatórios de vendas e comissões</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Configurações da plataforma</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium leading-[1.35]">Envio de notificações em massa</div>
