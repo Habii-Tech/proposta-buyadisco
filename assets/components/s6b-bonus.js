@@ -16,9 +16,9 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
 
     <!-- coluna esquerda -->
     <div class="px-14 py-12 flex flex-col justify-center border-r border-[#DDE8E2]">
-      <div class="text-[11px] font-bold tracking-[.1em] uppercase text-[#158A3E] mb-[14px]">Feche em Maio</div>
+      <div class="text-[11px] font-bold tracking-[.1em] uppercase text-[#158A3E] mb-[14px]">Feche em Agosto</div>
       <h2 class="text-[clamp(36px,4vw,54px)] font-black leading-none tracking-[-0.03em] text-[#0C1410] mb-5">O que você ganha<br><em class="text-[#6EBF8B] not-italic"> fechando agora.</em></h2>
-      <p class="text-[16px] text-[#5C6E64] leading-[1.78] mb-10 max-w-[400px]">Contratos assinados até o fim de maio levam um site institucional completo sem custo adicional, entregue em até 30 dias, antes mesmo do app ficar pronto.</p>
+      <p class="text-[16px] text-[#5C6E64] leading-[1.78] mb-10 max-w-[400px]">Contratos assinados até o fim de agosto levam um site institucional completo sem custo adicional, entregue em até 30 dias, antes mesmo do app ficar pronto.</p>
 
       <!-- lista de benefícios -->
       <div class="flex flex-col gap-3 mt-2">
@@ -62,7 +62,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
             <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-40"></span>
             <span class="relative inline-flex h-[8px] w-[8px] rounded-full bg-white"></span>
           </span>
-          Bônus exclusivo · Maio/2026
+          Bônus exclusivo · Ago/2026
         </div>
         <span class="text-[10px] font-bold tracking-[.14em] uppercase text-[#158A3E]/60">Site Institucional</span>
       </div>
@@ -172,7 +172,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
         </div>
         <div class="flex items-center gap-1.5 bg-[#FFFBEB] rounded-full px-3 py-[7px]">
           <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="#D97706" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
-          <span class="text-[11px] font-medium text-[#92400E]">Válido até 31/mai</span>
+          <span class="text-[11px] font-medium text-[#92400E]">Válido até 31/ago</span>
         </div>
       </div>
 
