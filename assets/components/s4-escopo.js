@@ -25,7 +25,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
             <div class="text-[16px] font-extrabold text-white leading-[1.2] tracking-[-0.015em]">App Mobile · iOS e Android</div>
             <div class="flex items-center gap-[10px] mt-[5px]">
               <span class="text-[10px] font-bold tracking-[.06em] uppercase bg-white/20 text-white px-2 py-[2px] rounded-full">9 no MVP</span>
-              <span class="text-[10px] font-semibold text-white/50">+3 na V. Completa</span>
+              <span class="text-[10px] font-semibold text-white/50">+4 na V. Completa</span>
             </div>
           </div>
         </div>
@@ -49,9 +49,9 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <div class="flex items-center gap-2 mt-[10px] mb-[6px]">
             <span class="text-[9px] font-black tracking-[.12em] uppercase text-white bg-[#7C3AED] px-[8px] py-[3px] rounded-full">V. Completa</span>
           </div>
-          <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium border-b border-[#EDE9FE] leading-[1.35]">Planos de assinatura mensal para lojistas</div>
+          <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium border-b border-[#EDE9FE] leading-[1.35]">Planos de assinatura mensal para lojistas (In app purchase)</div>
           <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium border-b border-[#EDE9FE] leading-[1.35]">Leilões e sistema de ofertas/lances</div>
-          <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium leading-[1.35]">Fluxo de pagamento assíncrono com retenção</div>
+          <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium leading-[1.35]">Feed (Postagens)</div>
 
         </div>
       </div>
@@ -66,7 +66,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
             <div class="text-[16px] font-extrabold text-white leading-[1.2] tracking-[-0.015em]">Painel Web · Administrativo</div>
             <div class="flex items-center gap-[10px] mt-[5px]">
               <span class="text-[10px] font-bold tracking-[.06em] uppercase bg-white/20 text-white px-2 py-[2px] rounded-full">9 no MVP</span>
-              <span class="text-[10px] font-semibold text-white/50">+2 na V. Completa</span>
+              <span class="text-[10px] font-semibold text-white/50">+3 na V. Completa</span>
             </div>
           </div>
         </div>
@@ -91,7 +91,8 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
             <span class="text-[9px] font-black tracking-[.12em] uppercase text-white bg-[#7C3AED] px-[8px] py-[3px] rounded-full">V. Completa</span>
           </div>
           <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium border-b border-[#EDE9FE] leading-[1.35]">Gestão de planos e assinaturas</div>
-          <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium leading-[1.35]">Gestão de leilões ativos</div>
+          <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium border-b border-[#EDE9FE] leading-[1.35]">Gestão de leilões ativos</div>
+          <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium leading-[1.35]">Moderação do feed de postagens</div>
 
         </div>
       </div>
