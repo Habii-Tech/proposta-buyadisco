@@ -14,10 +14,24 @@ document.getElementById("slides-container").insertAdjacentHTML(
       <h2 class="text-[clamp(36px,4vw,54px)] font-black leading-none tracking-[-0.03em] text-[#0C1410] mb-5">Investimento<br><em class="text-[#6EBF8B] not-italic">transparente.</em></h2>
       <p class="text-[16px] text-[#5C6E64] leading-[1.78] mb-[18px]">Sem surpresas. Você sabe exatamente o que paga e o que recebe em cada etapa do projeto.</p>
       <div class="inv-box bg-[#0C1410] rounded-[20px] p-10 mt-7 relative overflow-hidden">
-        <div class="text-[11px] font-bold tracking-[.1em] uppercase text-[#1DB954] mb-[22px]">Investimento total do projeto</div>
+        <div class="flex items-center gap-[8px] mb-[18px]">
+          <span class="text-[9px] font-black tracking-[.12em] uppercase text-white bg-[#158A3E] px-[8px] py-[3px] rounded-full">MVP</span>
+          <span class="text-[11px] font-bold tracking-[.06em] uppercase text-[#1DB954]">Investimento</span>
+        </div>
         <div class="text-[clamp(26px,3vw,42px)] font-black text-white tracking-[-0.03em] leading-[1.15] mb-[10px]">Entrada de <em class="text-[#1DB954] not-italic">R$ 7.500</em><br>+ 6 parcelas de <em class="text-[#1DB954] not-italic">R$ 6.000</em></div>
-        <div class="text-[14px] text-white/30 mb-6">Valor total: <strong class="text-white/55 font-semibold">R$ 43.500,00</strong></div>
-        <div class="h-px bg-white/[0.08] mb-[18px]"></div>
+        <div class="text-[14px] text-white/30 mb-4">Valor total MVP: <strong class="text-white/55 font-semibold">R$ 43.500,00</strong></div>
+        <div class="h-px bg-white/[0.08] mb-4"></div>
+        <div class="flex items-center justify-between gap-4">
+          <div>
+            <span class="text-[9px] font-black tracking-[.12em] uppercase text-white bg-[#7C3AED] px-[8px] py-[3px] rounded-full inline-block mb-[5px]">V. Completa</span>
+            <div class="text-[12px] text-white/35 leading-[1.5]">Inclui assinaturas e leilões</div>
+          </div>
+          <div class="text-right shrink-0">
+            <div class="text-[clamp(20px,2.2vw,30px)] font-black text-[#A78BFA] tracking-[-0.03em]">R$ 60.000</div>
+            <div class="text-[11px] text-[#A78BFA]/60 leading-[1.4] mt-[2px]">Entrada R$ 12.000 + 6×R$ 8.000</div>
+          </div>
+        </div>
+        <div class="h-px bg-white/[0.08] mt-4 mb-[14px]"></div>
         <div class="text-[12px] text-white/25 leading-[1.6]">* Não incluso domínio, hospedagem e manutenção.<br>* Após agosto, este valor não contempla o site institucional.</div>
       </div>
     </div>
