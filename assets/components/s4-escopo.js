@@ -24,7 +24,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <div class="flex-1">
             <div class="text-[16px] font-extrabold text-white leading-[1.2] tracking-[-0.015em]">App Mobile · iOS e Android</div>
             <div class="flex items-center gap-[10px] mt-[5px]">
-              <span class="text-[10px] font-bold tracking-[.06em] uppercase bg-white/20 text-white px-2 py-[2px] rounded-full">8 no MVP</span>
+              <span class="text-[10px] font-bold tracking-[.06em] uppercase bg-white/20 text-white px-2 py-[2px] rounded-full">9 no MVP</span>
               <span class="text-[10px] font-semibold text-white/50">+3 na V. Completa</span>
             </div>
           </div>
@@ -42,6 +42,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Cadastro de produtos via IA (código de barras e fotos)</div>
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Importação de catálogo via API Discogs e CSV</div>
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Selo de verificação para lojistas credenciados</div>
+          <div class="si flex items-center gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Fluxo de avaliações para reputação <span class="text-[9px] font-black tracking-[.1em] uppercase text-[#B45309] bg-[#FEF3C7] border border-[#FDE68A] px-[7px] py-[2px] rounded-full shrink-0">Sugestão</span></div>
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Notificações por e-mail</div>
 
           <!-- Versão Completa -->
@@ -64,7 +65,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <div class="flex-1">
             <div class="text-[16px] font-extrabold text-white leading-[1.2] tracking-[-0.015em]">Painel Web · Administrativo</div>
             <div class="flex items-center gap-[10px] mt-[5px]">
-              <span class="text-[10px] font-bold tracking-[.06em] uppercase bg-white/20 text-white px-2 py-[2px] rounded-full">8 no MVP</span>
+              <span class="text-[10px] font-bold tracking-[.06em] uppercase bg-white/20 text-white px-2 py-[2px] rounded-full">9 no MVP</span>
               <span class="text-[10px] font-semibold text-white/50">+2 na V. Completa</span>
             </div>
           </div>
@@ -83,6 +84,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Relatórios de vendas e comissões</div>
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Configurações da plataforma</div>
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Envio de notificações em massa</div>
+          <div class="si flex items-center gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Gestão de avaliações e reputação <span class="text-[9px] font-black tracking-[.1em] uppercase text-[#B45309] bg-[#FEF3C7] border border-[#FDE68A] px-[7px] py-[2px] rounded-full shrink-0">Sugestão</span></div>
 
           <!-- Versão Completa -->
           <div class="flex items-center gap-2 mt-[10px] mb-[6px]">
