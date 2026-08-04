@@ -69,14 +69,7 @@ document.getElementById("slides-container").insertAdjacentHTML(
             </div>
             <div class="text-[16px] font-black text-[#0C1410] tracking-[-0.02em] ml-4 shrink-0">R$ 700<small class="text-[11px] font-normal text-[#8FA398]">/mês</small></div>
           </div>
-          <div class="flex items-center justify-between bg-[#F4F8F5] border border-[#DDE8E2] rounded-[14px] px-4 py-3">
-            <div>
-              <div class="text-[10px] font-bold tracking-[.06em] uppercase text-[#158A3E]">Contas Developer (lojas)</div>
-              <div class="text-[11px] text-[#5C6E64] leading-[1.5] mt-[2px]">Google Play: $25 único · App Store: $99/ano</div>
-            </div>
-            <div class="text-[15px] font-black text-[#0C1410] tracking-[-0.02em] ml-4 shrink-0">$25 + $99<small class="text-[11px] font-normal text-[#8FA398]">/ano</small></div>
-          </div>
-          <div class="flex items-center justify-between bg-[#F4F8F5] border border-[#DDE8E2] rounded-[14px] px-4 py-3">
+<div class="flex items-center justify-between bg-[#F4F8F5] border border-[#DDE8E2] rounded-[14px] px-4 py-3">
             <div>
               <div class="text-[10px] font-bold tracking-[.06em] uppercase text-[#158A3E]">Servidor Cloud</div>
               <div class="text-[11px] text-[#5C6E64] leading-[1.5] mt-[2px]">Alta disponibilidade + backups automáticos</div>
