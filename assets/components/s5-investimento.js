@@ -18,8 +18,8 @@ document.getElementById("slides-container").insertAdjacentHTML(
           <span class="text-[9px] font-black tracking-[.12em] uppercase text-white bg-[#158A3E] px-[8px] py-[3px] rounded-full">MVP</span>
           <span class="text-[11px] font-bold tracking-[.06em] uppercase text-[#1DB954]">Investimento</span>
         </div>
-        <div class="text-[clamp(26px,3vw,42px)] font-black text-white tracking-[-0.03em] leading-[1.15] mb-[10px]">Entrada de <em class="text-[#1DB954] not-italic">R$ 7.500</em><br>+ 6 parcelas de <em class="text-[#1DB954] not-italic">R$ 6.000</em></div>
-        <div class="text-[14px] text-white/30 mb-4">Valor total MVP: <strong class="text-white/55 font-semibold">R$ 43.500,00</strong></div>
+        <div class="text-[clamp(26px,3vw,42px)] font-black text-white tracking-[-0.03em] leading-[1.15] mb-[10px]">Entrada de <em class="text-[#1DB954] not-italic">R$ 8.000</em><br>+ 6 parcelas de <em class="text-[#1DB954] not-italic">R$ 5.000</em></div>
+        <div class="text-[14px] text-white/30 mb-4">Valor total MVP: <strong class="text-white/55 font-semibold">R$ 38.000,00</strong></div>
         <div class="h-px bg-white/[0.08] mb-4"></div>
         <div class="flex items-center justify-between gap-4">
           <div>
@@ -27,8 +27,8 @@ document.getElementById("slides-container").insertAdjacentHTML(
             <div class="text-[12px] text-white/35 leading-[1.5]">Inclui assinaturas e leilões</div>
           </div>
           <div class="text-right shrink-0">
-            <div class="text-[clamp(20px,2.2vw,30px)] font-black text-[#A78BFA] tracking-[-0.03em]">R$ 60.000</div>
-            <div class="text-[11px] text-[#A78BFA]/60 leading-[1.4] mt-[2px]">Entrada R$ 12.000 + 6×R$ 8.000</div>
+            <div class="text-[clamp(20px,2.2vw,30px)] font-black text-[#A78BFA] tracking-[-0.03em]">R$ 50.000</div>
+            <div class="text-[11px] text-[#A78BFA]/60 leading-[1.4] mt-[2px]">Entrada R$ 8.000 + 6×R$ 7.000</div>
           </div>
         </div>
         <div class="h-px bg-white/[0.08] mt-4 mb-[14px]"></div>

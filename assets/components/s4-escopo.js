@@ -11,20 +11,20 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
         <div class="text-[11px] font-bold tracking-[.1em] uppercase text-[#158A3E] mb-[14px]">O que vamos construir</div>
         <h2 class="text-[clamp(36px,4vw,54px)] font-black leading-none tracking-[-0.03em] text-[#0C1410] mb-0">Escopo<br><em class="text-[#6EBF8B] not-italic">do projeto.</em></h2>
       </div>
-      <p class="text-[15px] text-[#5C6E64] max-w-[360px] leading-[1.65] pb-1 flex-shrink-0">App mobile para iOS e Android com marketplace de vinis + <strong class="text-[#1F2B23] font-semibold">painel web administrativo</strong> para gestão da plataforma.</p>
+      <p class="text-[15px] text-[#5C6E64] max-w-[360px] leading-[1.65] pb-1 flex-shrink-0">PWA com marketplace de vinis + <strong class="text-[#1F2B23] font-semibold">painel web administrativo</strong> para gestão da plataforma.</p>
     </div>
     <div class="flex-1 grid gap-4" style="grid-template-columns: repeat(2,1fr);">
 
-      <!-- App Mobile -->
+      <!-- PWA -->
       <div class="sc bg-[#F4F8F5] border border-[#DDE8E2] rounded-[20px] flex flex-col overflow-hidden shadow-[0_4px_20px_rgba(0,0,0,.06)]">
         <div class="sc-head px-7 py-[26px] flex items-center gap-4 relative overflow-hidden" style="background:linear-gradient(135deg,#0D5C2E 0%,#158A3E 100%);">
           <div class="w-11 h-11 bg-white/15 border border-white/20 rounded-[11px] flex items-center justify-center flex-shrink-0">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="14" height="20" rx="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
           </div>
           <div class="flex-1">
-            <div class="text-[16px] font-extrabold text-white leading-[1.2] tracking-[-0.015em]">App Mobile · iOS e Android</div>
+            <div class="text-[16px] font-extrabold text-white leading-[1.2] tracking-[-0.015em]">PWA · Web App Progressivo</div>
             <div class="flex items-center gap-[10px] mt-[5px]">
-              <span class="text-[10px] font-bold tracking-[.06em] uppercase bg-white/20 text-white px-2 py-[2px] rounded-full">9 no MVP</span>
+              <span class="text-[10px] font-bold tracking-[.06em] uppercase bg-white/20 text-white px-2 py-[2px] rounded-full">10 no MVP</span>
               <span class="text-[10px] font-semibold text-white/50">+4 na V. Completa</span>
             </div>
           </div>
@@ -41,6 +41,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Gateway de pagamento externo (Stripe/Yugo)</div>
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Cadastro de produtos via IA (código de barras e fotos)</div>
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Importação de catálogo via API Discogs e CSV</div>
+          <div class="si flex items-center gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Integração com API da Melhor Envio <span class="text-[9px] font-black tracking-[.1em] uppercase text-white bg-[#158A3E] px-[7px] py-[2px] rounded-full shrink-0">Novo</span></div>
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Selo de verificação para lojistas credenciados</div>
           <div class="si flex items-center gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Fluxo de avaliações para reputação <span class="text-[9px] font-black tracking-[.1em] uppercase text-[#B45309] bg-[#FEF3C7] border border-[#FDE68A] px-[7px] py-[2px] rounded-full shrink-0">Sugestão</span></div>
           <div class="si flex items-baseline gap-3 text-[14px] text-[#374840] py-[7px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Notificações por e-mail</div>
@@ -49,7 +50,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <div class="flex items-center gap-2 mt-[10px] mb-[6px]">
             <span class="text-[9px] font-black tracking-[.12em] uppercase text-white bg-[#7C3AED] px-[8px] py-[3px] rounded-full">V. Completa</span>
           </div>
-          <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium border-b border-[#EDE9FE] leading-[1.35]">Planos de assinatura mensal para lojistas (In app purchase)</div>
+          <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium border-b border-[#EDE9FE] leading-[1.35]">Planos de assinatura mensal para lojistas</div>
           <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium border-b border-[#EDE9FE] leading-[1.35]">Leilões e sistema de ofertas/lances</div>
           <div class="si flex items-baseline gap-3 text-[13px] text-[#7C3AED]/80 py-[6px] font-medium leading-[1.35]">Feed (Postagens)</div>
 
